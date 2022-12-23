@@ -1,0 +1,4 @@
+[submodule "countryGuess"]
+	path = countryGuess
+	url = git@github.com:romigar/countryGuess.git
+	branch = next
